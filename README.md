@@ -1,4 +1,5 @@
 # QA Tester
+¡Hola! Te doy la bienvenida a mi portafolio de proyectos de QA.
 
 ### Technical Skills: Python, SQL, Python, Selenium, PyCharm
 
