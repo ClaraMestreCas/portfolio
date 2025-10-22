@@ -3,8 +3,10 @@
 ### Technical Skills: Python, SQL, Python, Selenium, PyCharm
 
 ## Education
-• Certificado QA Engineer | TripleTen Bootcamp Online					
-•	Ciclo Superior Educación Infantil								
+• Certificado QA Engineer | TripleTen Bootcamp Online	
+
+•	Ciclo Superior Educación Infantil
+
 •	Ciclo Superior Educación Secretariado
 
 ## Work Experience
